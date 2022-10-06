@@ -29,7 +29,7 @@ public class SingleCrocodileResponse implements Serializable
      * No args constructor for use in serialization
      *
      */
-    public SingleCrocodileResponse() {
+    public SingleCrocodileResponse(String dule, String m, String s) {
     }
 
 
