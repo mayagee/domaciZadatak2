@@ -54,7 +54,6 @@ public class CrocodileTests extends TestBase {
   }
 
     @Test
-    @Description("Update a single private crocodile with Patch")
     public void patchCrocodile() {
         SingleCrocodileResponse singleCrocodileResponse = CrocodilesAPI.getCrocodileByIdResponse(accessToken);
         singleCrocodileResponse.setName("Darija");
