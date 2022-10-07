@@ -9,5 +9,9 @@
         <module name="DomaciZadatak02" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DomaciZadatak03" target="11" />
+      <module name="untitled" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

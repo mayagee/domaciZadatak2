@@ -29,9 +29,6 @@ public class SingleCrocodileResponse implements Serializable
      * No args constructor for use in serialization
      *
      */
-    public SingleCrocodileResponse(String dule, String m, String s) {
-    }
-
 
     public SingleCrocodileResponse(Integer id, String name, String sex, String dateOfBirth, Integer age) {
         super();
