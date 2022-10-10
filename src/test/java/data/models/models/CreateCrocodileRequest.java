@@ -1,4 +1,4 @@
-package data.models;
+package data.models.models;
 
 import java.io.Serializable;
 import com.google.gson.annotations.Expose;
@@ -18,7 +18,7 @@ public class CreateCrocodileRequest implements Serializable
     private String dateOfBirth;
     private final static long serialVersionUID = -976650914674967403L;
 
-    public CreateCrocodileRequest() {
+    public CreateCrocodileRequest(CreateCrocodileRequest createCrocodileRequest) {
     }
 
     public CreateCrocodileRequest(String name, String sex, String dateOfBirth) {
@@ -26,6 +26,10 @@ public class CreateCrocodileRequest implements Serializable
         this.name = name;
         this.sex = sex;
         this.dateOfBirth = dateOfBirth;
+    }
+
+    public CreateCrocodileRequest() {
+
     }
 
     public String getName() {

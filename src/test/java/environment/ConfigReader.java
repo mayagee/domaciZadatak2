@@ -10,7 +10,7 @@ import java.util.Properties;
 
 public class ConfigReader {
 
-    private static String defaultFileName="src/test/resources/env.properties";
+    private static String defaultFileName="src/main/resources/env.properties";
     private static Map<String, Properties> config = new HashMap<>();
 
     public static void init(String fileName) {

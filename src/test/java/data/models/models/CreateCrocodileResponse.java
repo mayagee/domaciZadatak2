@@ -1,11 +1,10 @@
-package data.models;
+package data.models.models;
 
 import java.io.Serializable;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-
-public class SingleCrocodileResponse implements Serializable
+public class CreateCrocodileResponse implements Serializable
 {
 
     @SerializedName("id")
@@ -25,15 +24,10 @@ public class SingleCrocodileResponse implements Serializable
     private Integer age;
 
 
-    /**
-     * No args constructor for use in serialization
-     *
-     */
-    public SingleCrocodileResponse(String dule, String m, String s) {
+    public CreateCrocodileResponse() {
     }
 
-
-    public SingleCrocodileResponse(Integer id, String name, String sex, String dateOfBirth, Integer age) {
+    public CreateCrocodileResponse(Integer id, String name, String sex, String dateOfBirth, Integer age) {
         super();
         this.id = id;
         this.name = name;

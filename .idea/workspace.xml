@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01ae74fb-5b9a-4801-b8ab-2886565feac6" name="Changes" comment="config reader">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/calls/CrocodilesAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calls/CrocodilesAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/models/CreateCrocodileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/models/models/CreateCrocodileRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/models/CreateCrocodileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/models/models/CreateCrocodileResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/models/CrocodileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/models/models/CrocodileResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/models/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/models/models/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/models/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/models/models/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/models/SingleCrocodileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/models/models/SingleCrocodileResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/environment/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/environment/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/asserts/CrocodileAsserts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/asserts/CrocodileAsserts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/common/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/common/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/suites/CrocodileTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/suites/CrocodileTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Fl63Bs1ztuRTVMNe46oqe1R1km" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Maja Georgijevski/IdeaProjects/DomaciZadatak02",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maja Georgijevski\IdeaProjects\DomaciZadatak4" />
+      <recent name="C:\Users\Maja Georgijevski\IdeaProjects\DomaciZadatak4\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maja Georgijevski\IdeaProjects\DomaciZadatak4\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CrocodileTests">
+    <configuration name="CrocodileTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DomaciZadatak4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.suites" />
+      <option name="MAIN_CLASS_NAME" value="test.suites.CrocodileTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrocodileTests.createCrocodileTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DomaciZadatak4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.suites" />
+      <option name="MAIN_CLASS_NAME" value="test.suites.CrocodileTests" />
+      <option name="METHOD_NAME" value="createCrocodileTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrocodileTests.getCrocodileById" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DomaciZadatak4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.suites" />
+      <option name="MAIN_CLASS_NAME" value="test.suites.CrocodileTests" />
+      <option name="METHOD_NAME" value="getCrocodileById" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrocodileTests.getListOfMyCrocodiles" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DomaciZadatak4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.suites" />
+      <option name="MAIN_CLASS_NAME" value="test.suites.CrocodileTests" />
+      <option name="METHOD_NAME" value="getListOfMyCrocodiles" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CrocodileTests" />
+        <item itemvalue="TestNG.CrocodileTests.getCrocodileById" />
+        <item itemvalue="TestNG.CrocodileTests.createCrocodileTest" />
+        <item itemvalue="TestNG.CrocodileTests.getListOfMyCrocodiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ae74fb-5b9a-4801-b8ab-2886565feac6" name="Changes" comment="" />
+      <created>1665054121769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665054121769</updated>
+    </task>
+    <task id="LOCAL-00001" summary="domaci zadatak 2">
+      <created>1665054504176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665054504176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="domaci zadatak 2">
+      <created>1665054608094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665054608094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="domaci zadatak 2">
+      <created>1665054641571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665054641571</updated>
+    </task>
+    <task id="LOCAL-00004" summary="config reader">
+      <created>1665055914924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665055914924</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="domaci zadatak 2" />
+    <MESSAGE value="env.properties" />
+    <MESSAGE value="config reader" />
+    <option name="LAST_COMMIT_MESSAGE" value="config reader" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/common/GsonFunctions.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

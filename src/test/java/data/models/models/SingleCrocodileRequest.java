@@ -1,11 +1,11 @@
-package data.models;
+package data.models.models;
 
-import java.io.Serializable;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class CrocodileResponse implements Serializable
-{
+import java.io.Serializable;
+
+public class SingleCrocodileRequest implements Serializable {
 
     @SerializedName("id")
     @Expose
@@ -24,10 +24,10 @@ public class CrocodileResponse implements Serializable
     private Integer age;
 
 
-    public CrocodileResponse() {
+    public SingleCrocodileRequest() {
     }
 
-    public CrocodileResponse(Integer id, String name, String sex, String dateOfBirth, Integer age) {
+    public SingleCrocodileRequest(Integer id, String name, String sex, String dateOfBirth, Integer age) {
         super();
         this.id = id;
         this.name = name;

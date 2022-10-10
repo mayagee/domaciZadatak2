@@ -1,5 +1,5 @@
 
-package data.models;
+package data.models.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
